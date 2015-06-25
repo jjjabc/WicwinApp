@@ -4,5 +4,9 @@
     <string name="app_name">jjj</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="long_text">　　智信创赢成立于2013年，是一家专业从事管理信息系统研发、IT技术培训、招聘猎头服务的成长型高新技术企业，公司创始人及主要成员均拥有多年的软件与数据通信行业背景。主营业务包括：企业信息化整体解决方案、工程师技能培训、培训招生代理、IT岗位猎头等。
+　　截至2014年末，智信创赢已成功交付剑南春集团、泸州老窖集团、长虹集团等多个信息系统集成项目，并与四川、山东、重庆、甘肃、云南、贵州等省份的多所高校建立了良好的合作关系，为多家培训机构输送学员累积超过五百名。同时，我们拥有一支聚焦于IT行业的猎头服务团队，可提供数据通信、软件、互联网等的行业的招聘与猎头服务。
+　　公司秉承“智慧、诚信、创新、共赢”的核心文化理念，立志于成为中国IT行业的信息系统集成与人力资源综合服务专家。</string>
+    <string name="menu_text">Menu</string>
 
 </resources>

@@ -27,15 +27,19 @@ public final class R {
         public static final int ic_logoeb26=0x7f020001;
         public static final int logo_b=0x7f020002;
         public static final int logoew26=0x7f020003;
+        public static final int menu_button=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f080006;
-        public static final int bottomBarLayout=0x7f080002;
-        public static final int bottomLogoImage=0x7f080003;
-        public static final int indexText=0x7f080001;
-        public static final int scrollView1=0x7f080000;
-        public static final int topBarLayout=0x7f080004;
-        public static final int topLogoImage=0x7f080005;
+        public static final int action_settings=0x7f080009;
+        public static final int bottomBarLayout=0x7f080004;
+        public static final int bottomLogoImage=0x7f080005;
+        public static final int drawerLayout1=0x7f080000;
+        public static final int indexText=0x7f080002;
+        public static final int menuButton=0x7f080008;
+        public static final int rightDrawer=0x7f080003;
+        public static final int scrollView1=0x7f080001;
+        public static final int topBarLayout=0x7f080006;
+        public static final int topLogoImage=0x7f080007;
     }
     public static final class layout {
         public static final int activity_index=0x7f030000;
@@ -47,6 +51,8 @@ public final class R {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
         public static final int hello_world=0x7f050002;
+        public static final int long_text=0x7f050003;
+        public static final int menu_text=0x7f050004;
     }
     public static final class style {
         /** 
@@ -76,7 +82,9 @@ public final class R {
          */
         public static final int AppTheme=0x7f060001;
         public static final int bottomBar=0x7f060003;
+        public static final int imgResponsive=0x7f060006;
         public static final int index=0x7f060004;
+        public static final int indexText=0x7f060005;
         public static final int topBar=0x7f060002;
     }
 }

@@ -25,24 +25,38 @@ public final class R {
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
         public static final int ic_logoeb26=0x7f020001;
-        public static final int logo_b=0x7f020002;
-        public static final int logoew26=0x7f020003;
-        public static final int menu_button=0x7f020004;
+        public static final int index_bg=0x7f020002;
+        public static final int logo_b=0x7f020003;
+        public static final int logoew26=0x7f020004;
+        public static final int menu_button=0x7f020005;
     }
     public static final class id {
-        public static final int action_settings=0x7f080009;
-        public static final int bottomBarLayout=0x7f080004;
-        public static final int bottomLogoImage=0x7f080005;
-        public static final int drawerLayout1=0x7f080000;
-        public static final int indexText=0x7f080002;
-        public static final int menuButton=0x7f080008;
-        public static final int rightDrawer=0x7f080003;
-        public static final int scrollView1=0x7f080001;
-        public static final int topBarLayout=0x7f080006;
-        public static final int topLogoImage=0x7f080007;
+        public static final int action_settings=0x7f080014;
+        public static final int bottomBarLayout=0x7f08000e;
+        public static final int bottomLogoImage=0x7f08000f;
+        public static final int cg_Text=0x7f080003;
+        public static final int cg_bottomBarLayout=0x7f080005;
+        public static final int cg_bottomLogoImage=0x7f080006;
+        public static final int cg_drawerLayout=0x7f080000;
+        public static final int cg_menuButton=0x7f080008;
+        public static final int cg_rightDrawer=0x7f080004;
+        public static final int cg_scrollView=0x7f080001;
+        public static final int cg_topBarLayout=0x7f080007;
+        public static final int cg_topLogoImage=0x7f080002;
+        public static final int drawerLayout1=0x7f080009;
+        public static final int indexText=0x7f08000c;
+        public static final int indexTitle=0x7f08000b;
+        public static final int menuButton=0x7f080012;
+        public static final int rMenuItemText=0x7f080013;
+        public static final int rightDrawer=0x7f08000d;
+        public static final int scrollView1=0x7f08000a;
+        public static final int topBarLayout=0x7f080010;
+        public static final int topLogoImage=0x7f080011;
     }
     public static final class layout {
-        public static final int activity_index=0x7f030000;
+        public static final int activity_category=0x7f030000;
+        public static final int activity_index=0x7f030001;
+        public static final int right_drawer_menu_item=0x7f030002;
     }
     public static final class menu {
         public static final int index=0x7f070000;
